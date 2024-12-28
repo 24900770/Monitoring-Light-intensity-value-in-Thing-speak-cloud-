@@ -1,8 +1,8 @@
 # Monitoring-Light-intensity-value-in-Thing-speak-cloud
 # Uploading LDR sensor data in Thing Speak cloud
 ```
- Name : Nirmal N
- REG NO :212223240107
+ Name : Hariharan M
+ REG NO :24900770
 ```
 # AIM:
 To monitor the Light-intensity value in the Thing speak cloud using LDR sensor and ESP32 controller.
