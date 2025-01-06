@@ -1,5 +1,5 @@
 
- ### NAME : hariharan M
+ ### NAME : Hariharan M
 ### REG NO : 24900770
 # EXP : 4
 # Monitoring Light intensity value in Thing speak cloud
@@ -155,10 +155,10 @@ void loop()
 }
 ```
 # CIRCUIT DIAGRAM:
-![387136509-b8ff20fb-233e-47aa-8504-55b7caa43d3e](https://github.com/user-attachments/assets/7c65b2f1-3b10-46d2-94a1-ad6db58cb6a7)
-
+![Screenshot 2024-12-26 140734](https://github.com/user-attachments/assets/3efefd07-1926-466f-a07b-71ce17095e79)
 # OUTPUT:
-![387136665-841e1e44-d689-4bd5-bf5c-187200288d13](https://github.com/user-attachments/assets/8c10662a-18dc-4268-a763-0474a5d327a5)
+![Screenshot 2024-12-26 140746](https://github.com/user-attachments/assets/ca31be87-ecbf-428c-87c8-8247cbacace6)
+![Screenshot 2024-12-26 140800](https://github.com/user-attachments/assets/bc77b540-cbee-40b6-a079-2a7e2bddae09)
 
 # RESULT:
 
