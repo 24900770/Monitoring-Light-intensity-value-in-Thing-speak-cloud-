@@ -1,9 +1,10 @@
-# Monitoring-Light-intensity-value-in-Thing-speak-cloud
-# Uploading LDR sensor data in Thing Speak cloud
-```
- Name : Hariharan M
- REG NO :24900770
-```
+
+ ### NAME : hariharan M
+### REG NO : 24900770
+# EXP : 4
+# Monitoring Light intensity value in Thing speak cloud
+
+
 # AIM:
 To monitor the Light-intensity value in the Thing speak cloud using LDR sensor and ESP32 controller.
 # Apparatus required:
